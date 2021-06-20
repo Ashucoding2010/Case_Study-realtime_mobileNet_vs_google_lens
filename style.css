@@ -1,0 +1,36 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(yellow, green);
+    width: 100%;
+}
+
+.images {
+    width: 200px;
+    border-radius: 1%;
+    border-color: orange;
+    border-style: solid;
+    border-width: 20px;
+}
+
+.imge {
+
+    width: 400px;
+    border-radius: 1%;
+    border-color: orange;
+    border-style: solid;
+    border-width: 20px;
+
+}
+
+#welcome {
+
+background-color: cornflowerblue;
+color: yellow;
+margin-bottom: 50px ;
+
+width: fit-content;
+}
+
+
+
